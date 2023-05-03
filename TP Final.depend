@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1634845238 source:d:\documents\desktop\utn facultad\2do cuatrimestre 2021\programación y laboratorio 2\tp final\gotoxy.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1637246383 source:d:\documents\desktop\utn facultad\2do cuatrimestre 2021\programación y laboratorio 2\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<pthread.h>
+	<string.h>
+	<conio.h>
+
+1637095244 source:d:\documents\desktop\utn facultad\2do cuatrimestre 2021\programación y laboratorio 2\tp final\funciona.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<pthread.h>
+	<string.h>
+	<conio.h>
+
+1637690563 source:d:\documents\desktop\utn facultad\2do cuatrimestre 2021\programación y laboratorio 2\tp final\listadecanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<pthread.h>
+	<string.h>
+	<conio.h>
+
+1637279071 source:d:\documents\desktop\utn facultad\2do cuatrimestre 2021\programación y laboratorio 2\tp final\p.c
+
+1683092146 source:c:\users\windows11\desktop\utn facultad\2do cuatrimestre 2021\programación y laboratorio 2\tp final\funciona.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<pthread.h>
+	<string.h>
+	<conio.h>
+
+1634830838 source:c:\users\windows11\desktop\utn facultad\2do cuatrimestre 2021\programación y laboratorio 2\tp final\gotoxy.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1637672562 source:c:\users\windows11\desktop\utn facultad\2do cuatrimestre 2021\programación y laboratorio 2\tp final\listadecanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<pthread.h>
+	<string.h>
+	<conio.h>
+
+1683092117 source:c:\users\windows11\desktop\utn facultad\2do cuatrimestre 2021\programación y laboratorio 2\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<pthread.h>
+	<string.h>
+	<conio.h>
+
+1637261070 source:c:\users\windows11\desktop\utn facultad\2do cuatrimestre 2021\programación y laboratorio 2\tp final\p.c
+
